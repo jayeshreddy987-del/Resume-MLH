@@ -1,0 +1,8 @@
+{
+  "name": "Resume Analyzer",
+  "description": "Comprehensive ATS resume analyzer that evaluates qualifications, detects skill gaps against target roles, and generates actionable high-impact bullet improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
